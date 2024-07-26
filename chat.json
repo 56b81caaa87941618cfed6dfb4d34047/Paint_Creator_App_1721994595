@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button with text Good",
+        "message_id": "guest26072024115149",
+        "timestamp": "26072024115149",
+        "component_file_name": "simple_footer_component_1721994596",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "To add a button with text \"Free\", you can use HTML code:\n\n```html\n<button>Free</button>\n```\n\nThis will create a simple button with the text \"Free\" on it. You can customize the button's appearance using CSS.",
         "message_id": "guest26072024115029",
