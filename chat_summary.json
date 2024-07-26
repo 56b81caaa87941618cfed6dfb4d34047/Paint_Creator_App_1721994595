@@ -24,5 +24,11 @@
         "content": "add a button with text Good",
         "timestamp": "26072024115149",
         "message_id": "guest26072024115149"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "To add a button with text \"Good\", you can use HTML and CSS code. Here's an example:\n\n```html\n<button class=\"good-button\">Good</button>\n```\n\nAnd then style it using CSS:\n\n```css\n.good-button {\n  background-color: green;\n  color: white;\n  font-size: 18px;\n  padding: 10px 20px;\n  border: none;\n  border-radius: 5px;\n  cursor: pointer;\n}\n```\n\nThis will create a green button with white text that says \"Good\". The button will have a border-radius of 5px, which gives it rounded corners, and a cursor of \"pointer\" to indicate that it is clickable. You can modify the CSS to customize the button further to your liking.",
+        "timestamp": "26072024115151",
+        "message_id": "guest26072024115149"
     }
 ]
