@@ -18,5 +18,11 @@
         "content": "To add a button with text \"Free\", you can use HTML code:\n\n```html\n<button>Free</button>\n```\n\nThis will create a simple button with the text \"Free\" on it. You can customize the button's appearance using CSS.",
         "timestamp": "26072024115031",
         "message_id": "guest26072024115029"
+    },
+    {
+        "role": "user",
+        "content": "add a button with text Good",
+        "timestamp": "26072024115149",
+        "message_id": "guest26072024115149"
     }
 ]
